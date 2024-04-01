@@ -1,5 +1,5 @@
-                                    Developed by : RAJARAMAN V
-                                    Register number : 212223110038
+                                                        Developed by : RAJARAMAN V
+                                                        Register number : 212223110038
 # Fitting Poisson  distribution
 # Aim : 
 
