@@ -1,5 +1,4 @@
-                                                        Developed by : RAJARAMAN V
-                                                        Register number : 212223110038
+                                                        
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -72,10 +71,13 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
-
+```
+  Developed by : Madhumitha R
+ Register number : 212224240082
+```
 # Output : 
-![image](https://github.com/Rajaraman77/Poisson_distribution/assets/150319383/b44f7438-03c7-4e9f-b1b3-7b24d00d4466)
 
+![Screenshot 2025-04-29 140258](https://github.com/user-attachments/assets/e782ba48-ab20-4863-915a-a7cdc656cbc1)
 
 # Results
 
